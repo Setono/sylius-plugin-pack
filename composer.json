@@ -12,7 +12,7 @@
         "phpunit/phpunit": "^9.6.23",
         "psalm/plugin-phpunit": "~0.18.4",
         "psalm/plugin-symfony": "^5.2.6",
-        "rector/rector": "^1.2.10",
+        "rector/rector": "^2.1",
         "shipmonk/composer-dependency-analyser": "^1.8.3",
         "sylius-labs/coding-standard": "^4.4",
         "sylius/sylius": "~1.14.6",
