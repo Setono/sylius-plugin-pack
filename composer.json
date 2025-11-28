@@ -29,8 +29,8 @@
             "phpstan/extension-installer": true
         },
         "audit": {
-            "block-insecure": false,
-            "abandoned": "report"
+            "abandoned": "report",
+            "block-insecure": false
         },
         "sort-packages": true
     },
